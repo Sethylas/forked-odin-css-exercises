@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.first-butt {
+    background-color: black;
+    color: white;
+}
+
+.second-butt {
+    background-color: yellow;
+}
+
+.first-butt,
+.second-butt {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
